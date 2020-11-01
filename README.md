@@ -1,1 +1,1 @@
-# scientific_calc
+# scientific_calculator By Tkinter GUI (Python)
